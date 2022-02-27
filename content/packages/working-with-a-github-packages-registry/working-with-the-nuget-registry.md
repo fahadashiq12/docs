@@ -209,7 +209,8 @@ Using packages from {% data variables.product.prodname_dotcom %} in your project
       <TargetFramework>netcoreapp3.0</TargetFramework>
       <PackageId>OctocatApp</PackageId>
       <Version>1.0.0</Version>
-      <Authors>Octocat</Authors>
+      <Authors>Octocat</Authors>  
+
       <Company>GitHub</Company>
       <PackageDescription>This package adds an Octocat!</PackageDescription>
       <RepositoryUrl>https://{% ifversion fpt or ghec %}github.com{% else %}HOSTNAME{% endif %}/OWNER/REPOSITORY</RepositoryUrl>
