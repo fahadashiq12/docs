@@ -1,5 +1,5 @@
 ---
-title: Managing your profile README
+title: Managing your README
 intro: 'You can add a README to your {% data variables.product.prodname_dotcom %} profile to tell other people about yourself.'
 versions:
   fpt: '*'
